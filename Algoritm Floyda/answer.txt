@@ -1,0 +1,5 @@
+????? 
+0 :      36    INF     18    INF
+1 :       3    INF     21    INF
+2 :      18    INF     36    INF
+3 :      13    INF     11    INF
